@@ -1,0 +1,80 @@
+
+html, body {
+  height: 100%;
+  width: 100%;
+}
+*{
+    margin : 0 ;
+    padding : 0 ;
+    box-sizing : border-box ;
+}
+.main{
+  background-color:#448ADA;
+}
+.main .header{
+				border: 1px solid black;
+				padding: 5px;
+				border-radius: 5px;
+				text-align: center;
+				background-color:#448ADA;
+}
+body{
+  background-color:#CFE3FC;
+}
+.contactco{
+  font-size: 150%;
+  text-align: center;
+  color: #CFE3FC;
+}
+.project{
+  background-color: #CFE3FC;
+}
+.portfolio{
+				background-color:#CFE3FC;
+				font-size:25px;
+				padding: 5px;
+}
+				
+.main .navbar2 .clink{
+				width: 25%;
+				border: 1px solid black;
+  text-decoration: none;
+  color: #CFE3FC;
+				
+}
+	
+.section{
+				border:1px solid black;
+				border-radius: 5px;
+				padding: 5px 10px;
+}
+.section .image{
+				height:30%;
+				width:30%;
+				border:2px;
+				border-radius:150px;
+				
+}
+.footer{
+				border:1px solid black;
+				border-radius:5px;
+				text-align: center;
+				background-color:#5FA3F2;
+				padding: 5px;
+				
+}
+h1{
+  color:#CFE3FC;
+}
+
+h2{
+  color:#448ADA;  
+  text-align: center;
+}
+#dbody{
+ background-color: #CFE3FC;
+}
+
+
+  
+
