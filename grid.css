@@ -16,6 +16,7 @@ main{
     'a a b'
     'c d d'
     'c e e'
+    'f f f'
     ;
   width:1440px;
   margin:auto;
@@ -51,5 +52,9 @@ main div{
   background-color:#2459d6;
   
 }
-
+.purple{
+  grid-area:f;
+  background-color:#a923a9;
+  
+}
 
